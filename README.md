@@ -1,4 +1,4 @@
-# SCUM Discord Bot
+# SCUM Game Bot
 
 We created this bot for our own personal SCUM server and never intended to open source it. It was created in a way to just work for our setup with little regard for good principles and efficiency. Please keep this in mind when using it and make your own adjustments as needed.
 
